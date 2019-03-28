@@ -5,7 +5,8 @@ int y=20;
 public JavaFile()
 {
 super();
-x=10;
+x=30; 
+  //alaa alhosny
 
 }
 public void print()
